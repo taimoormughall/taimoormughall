@@ -10,7 +10,7 @@ My work revolves around **making AI usable inside real products**, not just runn
 ## 🔍 What I Do
 
 ### **AI & ML Integration**
-- LLM integration (OpenAI APIs, proprietary conversational engines like with offline models for data security)  
+- LLM integration (OpenAI APIs, proprietary conversational engines with offline models for data security)  
 - Building conversational flows, automation agents.  
 - OCR pipelines using Tesseract/PaddleOCR and more such OCR techniques.
 - NER for structured data extraction.  
