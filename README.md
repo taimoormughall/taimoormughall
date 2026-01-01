@@ -34,9 +34,9 @@ My work revolves around **making AI usable inside real products**, not just runn
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, Bash, c++.  
-**Data:** Power BI, Tableau, Pandas
-**AI/ML:** YOLO, ByteTrack, NER models, OCR (Tesseract, PaddleOCR), OpenAI APIs and many more being a tech-agnostic AI enthusiast.
+**Languages:** Python, Bash, C++.  
+**Data:** Power BI, Tableau, Pandas.  
+**AI/ML:** YOLO, ByteTrack, NER models, OCR (Tesseract, PaddleOCR), OpenAI APIs and more.  
 
 ---
 
