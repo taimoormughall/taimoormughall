@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Taimoor — AI Integration Engineer | Applied Machine Learning | Systems Automation
 
 I work at the intersection of **AI engineering, backend integration, and IT systems**.  
-My background blends 5 years of IT, DevOps, Automation with high end Integration logics, and 5 more years of data analytics, and AI engineering backed with post graduate in AI and ML from UT Austin has given me a practical, product-focused approach to building and integrating intelligent systems.
+My background blends 5 years of IT, DevOps, Automation with high end Integration logics, and 5 more years of data analytics, and AI engineering , moreover my post graduation in AI and ML from UT Austin has given me a practical, product-focused approach to building and integrating intelligent systems.
 
 My work revolves around **making AI usable inside real products**, not just running experiments.
 
